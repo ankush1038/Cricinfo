@@ -1,0 +1,17 @@
+
+        h2{
+            background-color: red;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: italic;
+            font-size: 25px;
+        }
+
+        h2:hover{
+            background-color: yellow;
+        }
+
+        p{
+            font-style: oblique;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 25px;
+        }
